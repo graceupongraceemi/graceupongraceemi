@@ -1,18 +1,10 @@
 ### Hi there 👋
 I am Emiko.
-#### I am a Fullstack Developer | 🚀  Focusing on React.js and React Native applications.
+#### I am a Fullstack Developer | 🚀  Enjoy learning and building websites especially with React.js/Next.js! 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/graceupongraceemi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/emikoself/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/EmikoDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-website-emikoself.netlify.app/)  
-
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" height="300" width="300"/>
 </div>
 
 
@@ -21,7 +13,7 @@ I am Emiko.
 <br />
 <br />
 <br />
-🟪 Languages I work with 🟪
+🟪 Languages I work with🟪
 <br />
 <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,8 +35,6 @@ I am Emiko.
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 <br />
 <br />
 🔸 Hosting 🔸
@@ -56,9 +46,6 @@ I am Emiko.
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br />
 <br />
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 <br />
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 <!-- Xcode 	![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) -->
