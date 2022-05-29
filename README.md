@@ -2,11 +2,14 @@
 I am Emiko.
 #### I am a Fullstack Developer | 🚀  Enjoy learning and building websites especially with React.js/Next.js! 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https:www.linkedin.com/in/emikoself/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/graceupongraceemi/)
+
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" height="300" width="300"/>
 </div>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceupongraceemi&layout=compact)](https://github.com/graceupongraceemi/github-readme-stats)
