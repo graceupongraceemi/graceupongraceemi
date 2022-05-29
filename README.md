@@ -4,7 +4,6 @@ I am Emiko.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emikoself/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/graceupongraceemi/)
 
 
 <div id="header" align="left">
