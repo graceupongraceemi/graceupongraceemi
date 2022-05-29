@@ -7,7 +7,7 @@ I am Emiko.
 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" height="300" width="300"/>
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" height="350" width="350"/>
 </div>
 
 
