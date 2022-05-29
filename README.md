@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Emiko.
-#### I am a Fullstack Developer | 🚀  Enjoy learning and building websites especially with React.js/Next.js! 
+#### I am a Fullstack Developer // MERN Stack | MongoDB | Express| Node.js // Mobile | React Native | 🚀  Enjoy learning and building websites especially with React.js/Next.js! 
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emikoself/)
 &nbsp;
